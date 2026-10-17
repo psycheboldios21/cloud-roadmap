@@ -1,0 +1,7 @@
+Linux & Web Troubleshooting Runbook
+Created by: Psyche
+Status: Phase 1 - Foundational Linux Commands
+
+Command Notes:
+- pwd: Prints the current directory path
+- ls: Lists files and folder
